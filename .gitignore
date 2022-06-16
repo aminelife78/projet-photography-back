@@ -114,4 +114,5 @@ build
 .strapi-updater.json
 Path: ./my-project/.gitignore
 
+package-lock.json
 
