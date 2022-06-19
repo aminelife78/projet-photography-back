@@ -112,9 +112,9 @@ exports
 *.cache
 build
 .strapi-updater.json
-Path: ./my-project/.gitignore
-
+Path: ./strapi/.gitignore
 package-lock.json
+
 
 
 
